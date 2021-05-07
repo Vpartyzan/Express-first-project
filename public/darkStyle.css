@@ -2,3 +2,9 @@ html {
   background-color: #2b2823;
   color: #c4beb5;
 }
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
